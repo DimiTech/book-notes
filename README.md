@@ -9,5 +9,9 @@ I update book notes regularly.
 
 (Click on the book cover image to read my notes for it)
 
-### Eloquent JavaScript
-[![Elouent JavaScript Notes](http://eloquentjavascript.net/img/cover.png)](https://github.com/DusanDimitric/book-notes/wiki/Eloquent-JavaScript)
+### Eloquent JavaScript (2nd Ed.)
+[![Eloquent JavaScript Notes](http://eloquentjavascript.net/img/cover.png)](https://github.com/DusanDimitric/book-notes/wiki/Eloquent-JavaScript)
+
+
+### Code Complete (2nd Ed.)
+[![Code Complete 2 Notes](http://cc2e.com/_img/cc2e-cover-small.gif)](https://github.com/DusanDimitric/book-notes/wiki/Code-Complete-2)
