@@ -15,3 +15,6 @@ I update book notes regularly.
 
 ### Code Complete (2nd Ed.)
 [![Code Complete 2 Notes](http://cc2e.com/_img/cc2e-cover-small.gif)](https://github.com/DusanDimitric/book-notes/wiki/Code-Complete-2)
+
+### JavaScript: the Good Parts
+[![JavaScript: the Good Parts](http://akamaicovers.oreilly.com/images/9780596517748/lrg.jpg)](https://github.com/DusanDimitric/book-notes/wiki/JavaScript-the-Good-Parts)
