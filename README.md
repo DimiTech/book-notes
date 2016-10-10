@@ -21,3 +21,6 @@ I update book notes regularly.
 
 ## Beginning Databases with PostgreSQL
 [![Beginning Databases with PostgreSQL](http://www.apress.com/media/catalog/product/cache/9/image/9df78eab33525d08d6e5fb8d27136e95/A/9/A9781590594780-3d.png)](https://github.com/DusanDimitric/book-notes/wiki/Beginning-Databases-with-PostgreSQL)
+
+## High Performance JavaScript
+[![High Performance JavaScript](http://akamaicovers.oreilly.com/images/9780596802806/lrg.jpg)](https://github.com/DusanDimitric/book-notes/wiki/High-Performance-JavaScript)
