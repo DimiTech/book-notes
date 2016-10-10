@@ -10,17 +10,16 @@ I update book notes regularly.
 (Click on the book cover image to read my notes for it)
 
 ## Eloquent JavaScript (2nd Ed.)
-[![Eloquent JavaScript Notes](http://eloquentjavascript.net/img/cover.png =250x)](https://github.com/DusanDimitric/book-notes/wiki/Eloquent-JavaScript)
-
+<a href="https://github.com/DusanDimitric/book-notes/wiki/Eloquent-JavaScript"><img src="http://eloquentjavascript.net/img/cover.png" alt="Eloquent JavaScript" width="250"></a>
 
 ## Code Complete (2nd Ed.)
-[![Code Complete 2 Notes](http://cc2e.com/_img/cc2e-cover-small.gif =250x)](https://github.com/DusanDimitric/book-notes/wiki/Code-Complete-2)
+<a href="https://github.com/DusanDimitric/book-notes/wiki/Code-Complete-2"><img src="http://cc2e.com/_img/cc2e-cover-small.gif" alt="Code Complete 2" width="250"></a>
 
 ## JavaScript: the Good Parts
-[![JavaScript: the Good Parts](http://akamaicovers.oreilly.com/images/9780596517748/lrg.jpg =250x)](https://github.com/DusanDimitric/book-notes/wiki/JavaScript-the-Good-Parts)
+<a href="https://github.com/DusanDimitric/book-notes/wiki/JavaScript-the-Good-Parts"><img src="http://akamaicovers.oreilly.com/images/9780596517748/lrg.jpg" alt="JavaScript: the Good Parts" width="250"></a>
 
 ## Beginning Databases with PostgreSQL
-[![Beginning Databases with PostgreSQL](http://www.apress.com/media/catalog/product/cache/9/image/9df78eab33525d08d6e5fb8d27136e95/A/9/A9781590594780-3d.png =250x)](https://github.com/DusanDimitric/book-notes/wiki/Beginning-Databases-with-PostgreSQL)
+<a href="https://github.com/DusanDimitric/book-notes/wiki/Beginning-Databases-with-PostgreSQL"><img src="http://www.apress.com/media/catalog/product/cache/9/image/9df78eab33525d08d6e5fb8d27136e95/A/9/A9781590594780-3d.png" alt="Beginning Databases with PostgreSQL" width="250"></a>
 
 ## High Performance JavaScript
-[![High Performance JavaScript](http://akamaicovers.oreilly.com/images/9780596802806/lrg.jpg =250x)](https://github.com/DusanDimitric/book-notes/wiki/High-Performance-JavaScript)
+<a href="https://github.com/DusanDimitric/book-notes/wiki/High-Performance-JavaScript"><img src="http://akamaicovers.oreilly.com/images/9780596802806/lrg.jpg" alt="High Performance JavaScript" width="250"></a>
