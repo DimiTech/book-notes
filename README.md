@@ -23,3 +23,8 @@ I update book notes regularly.
 
 ## High Performance JavaScript
 <a href="https://github.com/DusanDimitric/book-notes/wiki/High-Performance-JavaScript"><img src="http://akamaicovers.oreilly.com/images/9780596802806/lrg.jpg" alt="High Performance JavaScript" width="250"></a>
+
+
+## RESTful Web API Design with Node.js (Second Edition)
+<a href="https://github.com/DusanDimitric/book-notes/wiki/RESTful-Web-API-Design-with-Node.js-(Second-Edition)"><img src="https://www.packtpub.com/sites/default/files/IM9137.jpg" alt="RESTful Web API Design with Node.js (Second Edition)" width="250"></a>
+
