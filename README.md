@@ -18,9 +18,6 @@ I update book notes regularly.
 ## JavaScript: the Good Parts
 <a href="https://github.com/DusanDimitric/book-notes/wiki/JavaScript-the-Good-Parts"><img src="http://akamaicovers.oreilly.com/images/9780596517748/lrg.jpg" alt="JavaScript: the Good Parts" width="250"></a>
 
-## Beginning Databases with PostgreSQL
-<a href="https://github.com/DusanDimitric/book-notes/wiki/Beginning-Databases-with-PostgreSQL"><img src="http://www.apress.com/media/catalog/product/cache/9/image/9df78eab33525d08d6e5fb8d27136e95/A/9/A9781590594780-3d.png" alt="Beginning Databases with PostgreSQL" width="250"></a>
-
 ## High Performance JavaScript
 <a href="https://github.com/DusanDimitric/book-notes/wiki/High-Performance-JavaScript"><img src="http://akamaicovers.oreilly.com/images/9780596802806/lrg.jpg" alt="High Performance JavaScript" width="250"></a>
 
